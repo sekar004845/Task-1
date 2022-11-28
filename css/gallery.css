@@ -1,0 +1,15 @@
+.box{
+	text-align:center;
+}
+.box1{
+	text-align:center;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	padding:20px;
+	justify-content:space-evenly;
+}
+.container{
+	margin:auto;
+}
